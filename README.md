@@ -185,7 +185,25 @@ else:
 ~~~
 
 ## OUTPUT:
-![268425327-c2308b42-eaeb-4b64-a126-758538b69335](https://github.com/charansai0/rl-policy-evaluation/assets/94296221/8ee7a614-3e53-4e92-831f-9570b1eb92e4)
+### Policy 1:
+![21](https://github.com/Sucharithachowdary/rl-policy-evaluation/assets/94166007/d4cc356c-5259-415c-b36d-f6a323924143)
+![22](https://github.com/Sucharithachowdary/rl-policy-evaluation/assets/94166007/1d49b93b-0c7b-4ef2-b3fe-3eb0a2682265)
+![23](https://github.com/Sucharithachowdary/rl-policy-evaluation/assets/94166007/3a848b6e-d452-4f63-844b-537cb0e8d00d)
+### Policy 2:
+![24](https://github.com/Sucharithachowdary/rl-policy-evaluation/assets/94166007/38c68247-cd0e-46f2-80bc-dd20d8cf9952)
+
+![25](https://github.com/Sucharithachowdary/rl-policy-evaluation/assets/94166007/c73511d0-c9e4-4b62-920e-2ddaab706e55)
+![26](https://github.com/Sucharithachowdary/rl-policy-evaluation/assets/94166007/a2601a51-9918-4741-8e1f-060fdeafe921)
+
+
+### Comparision :
+![27](https://github.com/Sucharithachowdary/rl-policy-evaluation/assets/94166007/b3915e64-8911-472f-84ed-aeae854c0b97)
+
+### Conclusion :
+![Screenshot (32)](https://github.com/charansai0/rl-policy-evaluation/assets/94296221/c301e55d-794b-4558-84af-e2ac2e93fed5)
+
+
+
 
 ## RESULT:
 
